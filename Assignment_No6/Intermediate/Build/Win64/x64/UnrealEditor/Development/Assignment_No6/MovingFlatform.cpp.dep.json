@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\03_gameprogramming\\06_github\\nbc_assignment_no6\\assignment_no6\\source\\assignment_no6\\private\\movingflatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\03_gameprogramming\\06_github\\nbc_assignment_no6\\assignment_no6\\intermediate\\build\\win64\\x64\\assignment_no6editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\03_gameprogramming\\06_github\\nbc_assignment_no6\\assignment_no6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assignment_no6\\definitions.assignment_no6.h",
+            "d:\\03_gameprogramming\\06_github\\nbc_assignment_no6\\assignment_no6\\source\\assignment_no6\\public\\movingflatform.h",
+            "d:\\03_gameprogramming\\06_github\\nbc_assignment_no6\\assignment_no6\\intermediate\\build\\win64\\unrealeditor\\inc\\assignment_no6\\uht\\movingflatform.generated.h",
+            "d:\\00_programs\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\00_programs\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\00_programs\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\00_programs\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Assignment_No6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assignment_No6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Assignment_No6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Assignment_No6">
+      <UniqueIdentifier>{4D581E2B-5E6D-3ADD-ACDB-A81B0A9617C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assignment_No6\Assignment_No6.Build.cs">
+      <Filter>Source\Assignment_No6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Assignment_No6\Assignment_No6.cpp">
+      <Filter>Source\Assignment_No6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Assignment_No6.h">
+      <Filter>Source\Assignment_No6</Filter>
+    </ClCompile>
+    <Filter Include="Source\Assignment_No6\Private">
+      <UniqueIdentifier>{5864AB07-8998-316C-9305-0F214C0D0239}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Assignment_No6\Private\GMST.cpp">
+      <Filter>Source\Assignment_No6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Private\KHBCharacter.cpp">
+      <Filter>Source\Assignment_No6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Private\KHBLevelScriptActor.cpp">
+      <Filter>Source\Assignment_No6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Private\KHBPlayerController.cpp">
+      <Filter>Source\Assignment_No6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Private\MovingFlatform.cpp">
+      <Filter>Source\Assignment_No6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Private\RotatingFlatForm.cpp">
+      <Filter>Source\Assignment_No6\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Assignment_No6\Public">
+      <UniqueIdentifier>{C3135736-7893-3E33-A873-6AB5C2A02E8B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Assignment_No6\Public\GMST.h">
+      <Filter>Source\Assignment_No6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Public\KHBCharacter.h">
+      <Filter>Source\Assignment_No6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Public\KHBLevelScriptActor.h">
+      <Filter>Source\Assignment_No6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Public\KHBPlayerController.h">
+      <Filter>Source\Assignment_No6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Public\MovingFlatform.h">
+      <Filter>Source\Assignment_No6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment_No6\Public\RotatingFlatForm.h">
+      <Filter>Source\Assignment_No6\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
